@@ -50,3 +50,29 @@ Bitmond token sale will last for 2 months beginning from the 31st of January 201
 Based on our plans and value system placed on the Bitmond token there will only be 25million
 coins made available for the ICO out of a total of 30million coins with a maximum supply 100
 million coins minable after the successful ICO sales.
+
+We believe that rewarding investors and users for early adoption, and believe this will enhance
+the future value of Bitmond and encourage fast growth.
+
+Bitmond Token Sale coins will only be available to our early investors before going to the
+mainstream market.
+
+Investors will be able to purchase Bitmond coins in several ways and as soon as we go live these
+are the Currency which will be traded against on exchanges:
+
+a. With Bitcoin
+b. With Monero.
+c. With Eletroneum
+d. Stellar Lumen
+e. Ripples
+f. Ethereum
+g. Litecoins
+
+We have set up the following bonus structure to reward those who choose to invest early
+
+For interested investors holding other alternate cryptocurrencies that would like to use to
+purchase Bitmond coins then please use Shapeshift (https://shapeshift.io/#/coins) to convert to
+any of the above accepted coins before taking investing in the Bitmond Token ICO sale.
+
+At the end of the token sale your Bitmond balance will be moved into a Bitmond E-wallet
+address (or wallet addresses) of your choice
