@@ -34,3 +34,19 @@ as many independent servers participate in the Bitmond network as possible, so t
 will still run successfully even if some servers fail
 
 for more details please download our whitepaper https://bitmond.org/wp-content/uploads/2018/01/Bitmond-Whitepaper-wee.pdf
+
+BITMOND TOKEN SALE
+
+Bitmond would begin its Initial coin offering (ICO) on the 31st of January 2018, in order to raise
+enough funds to enable us achieve our goals and visions of the bitmond technology. We are
+giving investors the chance to invest in Bitmond before the listing on the various exchanges.
+
+The amount of funds generated through the ICO will be directly proportional the speed of
+achievement of the bitmond highlighted plans and progress.
+
+Bitmond token sale will last for 2 months beginning from the 31st of January 2013 to 31st March
+2018 or when the hard cap at $25million is reached.
+
+Based on our plans and value system placed on the Bitmond token there will only be 25million
+coins made available for the ICO out of a total of 30million coins with a maximum supply 100
+million coins minable after the successful ICO sales.
